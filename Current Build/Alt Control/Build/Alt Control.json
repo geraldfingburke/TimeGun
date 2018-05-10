@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "TimeGun",
+"dataUrl": "Alt Control.data.unityweb",
+"asmCodeUrl": "Alt Control.asm.code.unityweb",
+"asmMemoryUrl": "Alt Control.asm.memory.unityweb",
+"asmFrameworkUrl": "Alt Control.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#328080"
+}
